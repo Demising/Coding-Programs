@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "windows-gcc-x64",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "H:\\mingw64\\include"
+            ],
+            "compilerPath": "H:/mingw64/bin/g++.exe",
+            "cStandard": "${default}",
+            "cppStandard": "${default}",
+            "intelliSenseMode": "${default}",
+            "compilerArgs": [
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}

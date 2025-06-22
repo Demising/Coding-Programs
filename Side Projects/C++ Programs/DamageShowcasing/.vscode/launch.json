@@ -1,0 +1,53 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run Program",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}/program.exe",
+      "cwd": "${workspaceFolder}",
+      "preLaunchTask": "make program",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        },
+        {
+          "description": "Set Disassembly Flavor to Intel",
+          "text": "-gdb-set disassembly-flavor intel",
+          "ignoreFailures": true
+        }
+      ],
+      "MIMode": "gdb"
+    },
+    {
+      "name": "Run Program (Mac)",
+      "type": "lldb",
+      "request": "launch",
+      "program": "${workspaceFolder}/program.exe",
+      "cwd": "${workspaceFolder}",
+      "preLaunchTask": "make program"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "h:/ComputerScience/Side Projects/C++ Programs/DamageShowcasing",
+      "program": "h:/ComputerScience/Side Projects/C++ Programs/DamageShowcasing/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

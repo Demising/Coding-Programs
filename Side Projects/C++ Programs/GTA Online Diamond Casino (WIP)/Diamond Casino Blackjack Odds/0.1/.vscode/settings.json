@@ -1,0 +1,6 @@
+{
+    "lldb.dereferencePointers": false,
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}
