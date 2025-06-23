@@ -1,0 +1,5 @@
+There is a wall surrounding a town. The town is 150 meters from the wall in the middle and 2 kilometers in diameter
+The wall has a thickness of 50 meters and is perfectly symmetrical.
+There is a catapult that is some distance away from the wall.
+Your goal is to write a program that can calculate if a rock flung by the catapult hits the town, or misses and where it misses from.
+Things are already assumed, like the gravity of the planet you're on (Earth's gravity, or 9.8m/s^2), and the height of the wall being 75 meters.

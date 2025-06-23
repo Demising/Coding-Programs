@@ -1,0 +1,50 @@
+Lakeside High School, Galactic Clash, HS, 78, 85, 92, 88, 79
+Maplewood Middle School, Cyber Arena, MS, 65, 70, 72, 68, 75
+Pinecrest High School, Stellar Conquest, HS, 85, 88, 90, 87, 84
+Willow Grove Middle School, Virtual Mayhem, MS, 70, 75, 68, 72, 74
+Crestwood High School, Quantum Quest, HS, 92, 89, 94, 91, 88
+Elmwood Middle School, Retro Rivals, MS, 73, 68, 71, 75, 70
+Riverdale High School, Pixel Pandemonium, HS, 80, 82, 78, 85, 79
+Oak Ridge Middle School, Techno Tycoons, MS, 67, 72, 69, 74, 71
+Hillcrest High School, Circuit Clash, HS, 88, 90, 86, 92, 89
+Cedarwood Middle School, Neon Nexus, MS, 75, 78, 72, 80, 77
+Sunnyside High School, Battle Blitz, HS, 91, 87, 93, 89, 92
+Meadowview Middle School, Code Chaos, MS, 69, 73, 70, 75, 72
+Ridgewood High School, Virtual Vanguard, HS, 86, 84, 88, 82, 87
+Grove Street Middle School, Cybernetic Showdown, MS, 74, 76, 72, 78, 75
+Greenfield High School, Pixel Prowess, HS, 89, 91, 87, 92, 88
+Lakeshore Middle School, Techno Titans, MS, 71, 70, 75, 68, 73
+Mountainview High School, Quantum Quasar, HS, 93, 90, 94, 92, 91
+Brookside Middle School, Virtual Velocity, MS, 76, 72, 78, 74, 77
+Sunset High School, Cyberspace Conquest, HS, 87, 88, 86, 90, 89
+Crestview Middle School, Digital Duel, MS, 68, 71, 69, 73, 70
+Horizon High School, Game Grid, HS, 90, 92, 89, 93, 91
+Oakwood Middle School, Byte Brawl, MS, 72, 75, 70, 78, 74
+Summit High School, Galactic Gauntlet, HS, 94, 91, 95, 92, 93
+Pineview Middle School, Pixel Pursuit, MS, 77, 78, 75, 80, 76
+Greenwood High School, Code Crusaders, HS, 88, 86, 90, 85, 89
+Cresthill Middle School, Cyber Surge, MS, 69, 72, 68, 74, 70
+Hilltop High School, Virtual Vanguard, HS, 91, 89, 92, 88, 90
+Maple Grove Middle School, Retro Rampage, MS, 73, 75, 71, 78, 74
+Riverbank High School, Neon Nemeses, HS, 86, 88, 85, 90, 87
+Sunset Middle School, Techno Tango, MS, 70, 72, 68, 74, 71
+Brookside High School, Pixel Pandemonium, HS, 92, 90, 93, 89, 91
+Elmwood High School, Cybernetic Showdown, MS, 75, 78, 74, 80, 77
+Lakeside Middle School, Quantum Quest, HS, 89, 91, 88, 92, 90
+Meadowview High School, Virtual Velocity, MS, 72, 74, 70, 76, 73
+Ridgewood Middle School, Byte Brawl, HS, 87, 88, 86, 90, 89
+Greenfield Middle School, Code Chaos, MS, 69, 72, 68, 74, 71
+Mountainview Middle School, Cyberspace Conquest, HS, 91, 89, 92, 88, 90
+Cedarwood High School, Retro Rivals, MS, 74, 76, 73, 78, 75
+Riverdale Middle School, Galactic Gauntlet, HS, 94, 92, 95, 91, 93
+Oak Ridge High School, Pixel Pursuit, MS, 76, 78, 75, 80, 77
+Willow Grove High School, Digital Duel, HS, 88, 86, 90, 85, 89
+Horizon Middle School, Quantum Quasar, MS, 71, 70, 75, 68, 73
+Oakwood High School, Game Grid, HS, 90, 92, 89, 93, 91
+Pinecrest Middle School, Cyber Surge, MS, 72, 75, 71, 78, 74
+Sunset High School, Retro Rampage, HS, 86, 88, 85, 90, 87
+Cedarview Middle School, Neon Nemeses, MS, 70, 72, 69, 74, 71
+Crestwood High School, Techno Tango, HS, 91, 89, 92, 88, 90
+Brookside Middle School, Pixel Pandemonium, MS, 73, 75, 71, 78, 74
+Hillcrest High School, Cybernetic Showdown, HS, 88, 86, 90, 85, 89
+Maplewood Middle School, Quantum Quest, MS, 69, 72, 68, 74, 71
